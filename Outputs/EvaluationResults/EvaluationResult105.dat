@@ -1,0 +1,26 @@
+baselineModel, myLearningModel
+0.19909831739500522, 0.700005777362106	(MAP)
+0.24651898157100233, 0.6245177621255125	(F-Measure)
+My Learning Model results at each rank: 
+Rank: 1, precision = 1.0, recall = 0.0625
+Rank: 2, precision = 1.0, recall = 0.125
+Rank: 3, precision = 1.0, recall = 0.1875
+Rank: 4, precision = 1.0, recall = 0.25
+Rank: 5, precision = 1.0, recall = 0.3125
+Rank: 6, precision = 1.0, recall = 0.375
+Rank: 7, precision = 1.0, recall = 0.4375
+Rank: 8, precision = 1.0, recall = 0.5
+Rank: 9, precision = 0.8888888888888888, recall = 0.5
+Rank: 10, precision = 0.8, recall = 0.5
+
+Baseline results at each rank: 
+Rank: 1, precision = 1.0, recall = 0.0625
+Rank: 2, precision = 1.0, recall = 0.125
+Rank: 3, precision = 1.0, recall = 0.1875
+Rank: 4, precision = 1.0, recall = 0.25
+Rank: 5, precision = 1.0, recall = 0.3125
+Rank: 6, precision = 1.0, recall = 0.375
+Rank: 7, precision = 1.0, recall = 0.4375
+Rank: 8, precision = 1.0, recall = 0.5
+Rank: 9, precision = 0.8888888888888888, recall = 0.5
+Rank: 10, precision = 0.8, recall = 0.5
